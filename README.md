@@ -17,4 +17,4 @@ When given a first name, last name, and optional language, it generates formal a
 
 #### What is it for:
 
-Just a small framework test for learning purposes.
+Just a small framework test to learn oldschool JavaScript.

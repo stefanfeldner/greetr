@@ -1,10 +1,10 @@
 # GREETR
 
-#### What it does:
+### What it does:
 
 When given a first name, last name, and optional language, it generates formal and informal greetings.
 
-#### What it supports:
+### What it supports:
 
 - Support English and Spanish languages.
   
@@ -15,6 +15,6 @@ When given a first name, last name, and optional language, it generates formal a
 - Support jQuery.
   
 
-#### What is it for:
+### What is it for:
 
 Just a small framework test for learning purposes.

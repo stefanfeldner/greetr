@@ -1,2 +1,2 @@
-let greet = G$('Stefan', 'Feldner', 'en');
-console.log(greet );
+let response = G$('Stefan', 'Feldner', 'en');
+console.log(response.greet());

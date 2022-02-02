@@ -1,0 +1,1 @@
+console.log(G$('Stefan', 'Feldner', 'es').greet());
